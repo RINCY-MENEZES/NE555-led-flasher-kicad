@@ -1,0 +1,12 @@
+# KiCad cache
+fp-info-cache
+
+# KiCad autosave files
+_autosave*
+
+# Backup directories
+*-backups/
+
+# macOS files
+__MACOSX/
+.DS_Store
